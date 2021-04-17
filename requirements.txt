@@ -1,4 +1,4 @@
-tensorflow-2.4.0-cp37-cp37m-win_amd64.whl
+https://pypi.tuna.tsinghua.edu.cn/packages/2f/45/68e41b073b17c49dc9f02648acfd43b029072786a229465c27e9554c993e/tensorflow-2.4.0-cp37-cp37m-win_amd64.whl#sha256=d091adf8d6eae8bd47b1a72bf35a8aebb08147687e17d522eb531826a67f6a3b
 Flask==1.1.2
 Keras==2.4.3
 Werkzeug==1.0.1
