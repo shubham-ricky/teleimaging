@@ -4,8 +4,8 @@ import os
 import numpy as np
 import pandas as pd
 
-from tensorflow.keras.models import load_model
-from tensorflow.keras.preprocessing import image
+from keras.models import load_model
+from keras.preprocessing import image
 
 # Flask utils
 from flask import Flask, request, render_template
