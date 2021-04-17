@@ -1,0 +1,166 @@
+﻿ID,institution_type,facility_type_a,public_private,no_of_facilities,no_beds,Occupied Bed,Available Beds,Availability Percentage
+F01,Hospital,Acute,Public,7,6416,1223,5193,80.94
+F02,Hospital,Acute,Not-for-Profit,1,303,214,89,29.37
+F03,Hospital,Acute,Private,6,1570,717,853,54.33
+F04,Hospital,Psychiatric Hospitals,Public,1,2040,1240,800,39.22
+F05,Hospital,Psychiatric Hospitals,Not-for-Profit,1,500,200,300,60.00
+F06,Hospital,Psychiatric Hospitals,Private,1,800,654,146,18.25
+F07,Hospital,Community Hospitals,Public,1,1200,987,213,17.75
+F08,Hospital,Community Hospitals,Not-for-Profit,5,819,436,383,46.76
+F09,Hospital,Community Hospitals,Private,1,58,34,24,41.38
+F10,Residential Long-Term,Nursing Homes,Public,1,3422,2345,1077,31.47
+F11,Residential Long-Term,Nursing Homes,Not-for-Profit,30,6262,373,5889,94.04
+F12,Residential Long-Term,Nursing Homes,Private,30,3180,827,2353,73.99
+F13,Residential Long-Term,Inpatient Hospices,Public,1,50,34,16,32.00
+F14,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,129,76,53,41.09
+F15,Residential Long-Term,Inpatient Hospices,Private,1,120,78,42,35.00
+F16,Hospital,Acute,Public,8,6871,293,6578,95.74
+F17,Hospital,Acute,Not-for-Profit,1,283,123,160,56.54
+F18,Hospital,Acute,Private,6,1095,564,531,48.49
+F19,Hospital,Psychiatric Hospitals,Public,1,2010,447,1563,77.76
+F20,Hospital,Psychiatric Hospitals,Not-for-Profit,1,250,123,127,50.80
+F21,Hospital,Psychiatric Hospitals,Private,1,890,678,212,23.82
+F22,Hospital,Community Hospitals,Public,1,654,456,198,30.28
+F23,Hospital,Community Hospitals,Not-for-Profit,5,818,567,251,30.68
+F24,Hospital,Community Hospitals,Private,1,24,23,1,4.17
+F25,Residential Long-Term,Nursing Homes,Public,1,80,45,35,43.75
+F26,Residential Long-Term,Nursing Homes,Not-for-Profit,30,6293,3131,3162,50.25
+F27,Residential Long-Term,Nursing Homes,Private,32,3258,2345,913,28.02
+F28,Residential Long-Term,Inpatient Hospices,Public,1,234,123,111,47.44
+F29,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,123,54,69,56.10
+F30,Residential Long-Term,Inpatient Hospices,Private,1,690,456,234,33.91
+F31,Hospital,Acute,Public,8,6925,141,6784,97.96
+F32,Hospital,Acute,Not-for-Profit,1,283,145,138,48.76
+F33,Hospital,Acute,Private,6,1096,789,307,28.01
+F34,Hospital,Psychiatric Hospitals,Public,1,2010,1234,776,38.61
+F35,Hospital,Psychiatric Hospitals,Not-for-Profit,1,780,456,324,41.54
+F36,Hospital,Psychiatric Hospitals,Private,1,490,355,135,27.55
+F37,Hospital,Community Hospitals,Public,1,100,45,55,55.00
+F38,Hospital,Community Hospitals,Not-for-Profit,4,680,567,113,16.62
+F39,Hospital,Community Hospitals,Private,1,20,12,8,40.00
+F40,Residential Long-Term,Nursing Homes,Public,1,250,145,105,42.00
+F41,Residential Long-Term,Nursing Homes,Not-for-Profit,31,6137,1193,4944,80.56
+F42,Residential Long-Term,Nursing Homes,Private,32,3303,2836,467,14.14
+F43,Residential Long-Term,Inpatient Hospices,Public,1,32,23,9,28.13
+F44,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,101,57,44,43.56
+F45,Residential Long-Term,Inpatient Hospices,Private,1,40,23,17,42.50
+F46,Hospital,Acute,Public,8,7170,1480,5690,79.36
+F47,Hospital,Acute,Not-for-Profit,1,283,263,20,7.07
+F48,Hospital,Acute,Private,8,1272,34,1238,97.33
+F49,Hospital,Psychiatric Hospitals,Public,1,2010,567,1443,71.79
+F50,Hospital,Psychiatric Hospitals,Not-for-Profit,1,30,23,7,23.33
+F51,Hospital,Psychiatric Hospitals,Private,1,40,27,13,32.50
+F52,Hospital,Community Hospitals,Public,1,100,67,33,33.00
+F53,Hospital,Community Hospitals,Not-for-Profit,4,722,186,536,74.24
+F54,Hospital,Community Hospitals,Private,1,20,12,8,40.00
+F55,Residential Long-Term,Nursing Homes,Public,1,202,145,57,28.22
+F56,Residential Long-Term,Nursing Homes,Not-for-Profit,31,6119,4294,1825,29.83
+F57,Residential Long-Term,Nursing Homes,Private,32,3400,488,2912,85.65
+F58,Residential Long-Term,Inpatient Hospices,Public,1,48,34,14,29.17
+F59,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,101,56,45,44.55
+F60,Residential Long-Term,Inpatient Hospices,Private,1,65,56,9,13.85
+F61,Hospital,Acute,Public,8,7377,3842,3535,47.92
+F62,Hospital,Acute,Not-for-Profit,1,283,234,49,17.31
+F63,Hospital,Acute,Private,8,1279,338,941,73.57
+F64,Hospital,Psychiatric Hospitals,Public,1,2010,1421,589,29.30
+F65,Hospital,Psychiatric Hospitals,Not-for-Profit,1,56,45,11,19.64
+F66,Hospital,Psychiatric Hospitals,Private,1,76,65,11,14.47
+F67,Hospital,Community Hospitals,Public,1,110,67,43,39.09
+F68,Hospital,Community Hospitals,Not-for-Profit,4,722,567,155,21.47
+F69,Hospital,Community Hospitals,Private,1,20,13,7,35.00
+F70,Residential Long-Term,Nursing Homes,Public,5,1230,869,361,29.35
+F71,Residential Long-Term,Nursing Homes,Not-for-Profit,28,5924,2906,3018,50.95
+F72,Residential Long-Term,Nursing Homes,Private,33,3684,205,3479,94.44
+F73,Residential Long-Term,Inpatient Hospices,Public,1,48,34,14,29.17
+F74,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,101,56,45,44.55
+F75,Residential Long-Term,Inpatient Hospices,Private,1,90,78,12,13.33
+F76,Hospital,Acute,Public,8,7652,982,6670,87.17
+F77,Hospital,Acute,Not-for-Profit,1,283,234,49,17.31
+F78,Hospital,Acute,Private,9,1327,1234,93,7.01
+F79,Hospital,Psychiatric Hospitals,Public,1,1950,543,1407,72.15
+F80,Hospital,Psychiatric Hospitals,Not-for-Profit,1,323,123,200,61.92
+F81,Hospital,Psychiatric Hospitals,Private,1,765,543,222,29.02
+F82,Hospital,Community Hospitals,Public,1,142,33,109,76.76
+F83,Hospital,Community Hospitals,Not-for-Profit,4,905,675,230,25.41
+F84,Hospital,Community Hospitals,Private,1,18,12,6,33.33
+F85,Residential Long-Term,Nursing Homes,Public,6,1372,1245,127,9.26
+F86,Residential Long-Term,Nursing Homes,Not-for-Profit,27,6021,1670,4351,72.26
+F87,Residential Long-Term,Nursing Homes,Private,32,3575,2509,1066,29.82
+F88,Residential Long-Term,Inpatient Hospices,Public,1,40,12,28,70.00
+F89,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,101,65,36,35.64
+F90,Residential Long-Term,Inpatient Hospices,Private,1,60,32,28,46.67
+F91,Hospital,Acute,Public,9,8128,4799,3329,40.96
+F92,Hospital,Acute,Not-for-Profit,1,316,234,82,25.95
+F93,Hospital,Acute,Private,9,1400,1125,275,19.64
+F94,Hospital,Psychiatric Hospitals,Public,1,1950,1234,716,36.72
+F95,Hospital,Psychiatric Hospitals,Not-for-Profit,1,543,456,87,16.02
+F96,Hospital,Psychiatric Hospitals,Private,1,765,564,201,26.27
+F97,Hospital,Community Hospitals,Public,3,503,345,158,31.41
+F98,Hospital,Community Hospitals,Not-for-Profit,4,961,567,394,41.00
+F99,Hospital,Community Hospitals,Private,1,234,156,78,33.33
+F100,Residential Long-Term,Nursing Homes,Public,11,2488,131,2357,94.73
+F101,Residential Long-Term,Nursing Homes,Not-for-Profit,26,5802,3846,1956,33.71
+F102,Residential Long-Term,Nursing Homes,Private,34,3895,1217,2678,68.75
+F103,Residential Long-Term,Inpatient Hospices,Public,1,40,23,17,42.50
+F104,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,101,76,25,24.75
+F105,Residential Long-Term,Inpatient Hospices,Private,1,89,34,55,61.80
+F106,Hospital,Acute,Public,9,8561,2909,5652,66.02
+F107,Hospital,Acute,Not-for-Profit,1,316,234,82,25.95
+F108,Hospital,Acute,Private,9,1441,567,874,60.65
+F109,Hospital,Psychiatric Hospitals,Public,1,1950,144,1806,92.62
+F110,Hospital,Psychiatric Hospitals,Not-for-Profit,1,675,433,242,35.85
+F111,Hospital,Psychiatric Hospitals,Private,1,342,267,75,21.93
+F112,Hospital,Community Hospitals,Public,3,690,456,234,33.91
+F113,Hospital,Community Hospitals,Not-for-Profit,4,961,597,364,37.88
+F114,Hospital,Community Hospitals,Private,1,12,2,10,83.33
+F115,Residential Long-Term,Nursing Homes,Public,13,3110,199,2911,93.60
+F116,Residential Long-Term,Nursing Homes,Not-for-Profit,26,6058,2950,3108,51.30
+F117,Residential Long-Term,Nursing Homes,Private,30,3854,2654,1200,31.14
+F118,Residential Long-Term,Inpatient Hospices,Public,1,24,15,9,37.50
+F119,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,149,87,62,41.61
+F120,Residential Long-Term,Inpatient Hospices,Private,1,765,567,198,25.88
+F121,Hospital,Acute,Public,9,8623,3541,5082,58.94
+F122,Hospital,Acute,Not-for-Profit,1,271,212,59,21.77
+F123,Hospital,Acute,Private,8,1446,1200,246,17.01
+F124,Hospital,Psychiatric Hospitals,Public,1,1950,1432,518,26.56
+F125,Hospital,Psychiatric Hospitals,Not-for-Profit,1,323,234,89,27.55
+F126,Hospital,Psychiatric Hospitals,Private,1,654,456,198,30.28
+F127,Hospital,Community Hospitals,Public,3,690,567,123,17.83
+F128,Hospital,Community Hospitals,Not-for-Profit,4,969,678,291,30.03
+F129,Hospital,Community Hospitals,Private,1,4,2,2,50.00
+F130,Residential Long-Term,Nursing Homes,Public,20,5281,3949,1332,25.22
+F131,Residential Long-Term,Nursing Homes,Not-for-Profit,23,5872,145,5727,97.53
+F132,Residential Long-Term,Nursing Homes,Private,30,3765,1953,1812,48.13
+F133,Residential Long-Term,Inpatient Hospices,Public,1,24,23,1,4.17
+F134,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,155,124,31,20.00
+F135,Residential Long-Term,Inpatient Hospices,Private,1,54,43,11,20.37
+F136,Hospital,Acute,Public,10,9071,3955,5116,56.40
+F137,Hospital,Acute,Not-for-Profit,1,273,222,51,18.68
+F138,Hospital,Acute,Private,8,1482,1438,44,2.97
+F139,Hospital,Psychiatric Hospitals,Public,1,1950,456,1494,76.62
+F140,Hospital,Psychiatric Hospitals,Not-for-Profit,1,12,2,10,83.33
+F141,Hospital,Psychiatric Hospitals,Private,1,343,234,109,31.78
+F142,Hospital,Community Hospitals,Public,4,799,693,106,13.27
+F143,Hospital,Community Hospitals,Not-for-Profit,4,979,678,301,30.75
+F144,Hospital,Community Hospitals,Private,1,723,456,267,36.93
+F145,Residential Long-Term,Nursing Homes,Public,21,5581,3137,2444,43.79
+F146,Residential Long-Term,Nursing Homes,Not-for-Profit,23,5953,677,5276,88.63
+F147,Residential Long-Term,Nursing Homes,Private,28,3671,3274,397,10.81
+F148,Residential Long-Term,Inpatient Hospices,Public,1,24,12,12,50.00
+F149,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,155,145,10,6.45
+F150,Residential Long-Term,Inpatient Hospices,Private,1,278,232,46,16.55
+F151,Hospital,Acute,Public,10,9404,2232,7172,76.27
+F152,Hospital,Acute,Not-for-Profit,1,288,145,143,49.65
+F153,Hospital,Acute,Private,8,1629,1200,429,26.34
+F154,Hospital,Psychiatric Hospitals,Public,1,1950,1234,716,36.72
+F155,Hospital,Psychiatric Hospitals,Not-for-Profit,1,254,212,42,16.54
+F156,Hospital,Psychiatric Hospitals,Private,1,76,45,31,40.79
+F157,Hospital,Community Hospitals,Public,5,974,567,407,41.79
+F158,Hospital,Community Hospitals,Not-for-Profit,4,1012,234,778,76.88
+F159,Hospital,Community Hospitals,Private,1,38,34,4,10.53
+F160,Residential Long-Term,Nursing Homes,Public,23,6238,450,5788,92.79
+F161,Residential Long-Term,Nursing Homes,Not-for-Profit,23,5963,1461,4502,75.50
+F162,Residential Long-Term,Nursing Homes,Private,31,3858,2805,1053,27.29
+F163,Residential Long-Term,Inpatient Hospices,Public,1,24,23,1,4.17
+F164,Residential Long-Term,Inpatient Hospices,Not-for-Profit,2,155,140,15,9.68
+F165,Residential Long-Term,Inpatient Hospices,Private,1,90,67,23,25.56
